@@ -1,3 +1,7 @@
+# NOTICE: nannou_isf has been moved [here](https://github.com/nannou-org/nannou/tree/master/nannou_isf).
+
+---
+
 # nannou_isf
 
 ## Currently WIP
